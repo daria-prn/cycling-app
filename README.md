@@ -1,4 +1,15 @@
+# Description
+
+This cycling app is inspired by todolist. The features include:
+* A timer to record ongoing rides
+* Recording past rides
+* Viewing statistics about rides
+* Sorting the history of rides.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Unfortunately, there is no back-end support implemented. The app uses localstorage of the browser to store and retrieve data.
+
+# Running the app
 
 ## Available Scripts
 
